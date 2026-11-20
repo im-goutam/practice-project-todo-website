@@ -14,9 +14,9 @@ Taskly is a simple and interactive Todo List application that helps users manage
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+<img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📸 Screenshots
 
