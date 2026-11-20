@@ -20,7 +20,7 @@ Taskly is a simple and interactive Todo List application that helps users manage
 
 ## 📸 Screenshots
 
-<!-- Add your project screenshots here -->
+<img src="https://github.com/im-goutam/practice-project-todo-website/blob/main/todo-project-screenshot.jpg">
 
 ## 💡 What I Learned
 
@@ -40,6 +40,7 @@ The main purpose of building this project was to practice JavaScript and improve
 
 **Goutam Kumar**
 
+<a href="https://www.linkedin.com/in/goutamkumar9/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 ---
 
 ⭐ If you like this project, consider giving it a star!
